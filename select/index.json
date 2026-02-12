@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "merrow",
+  "base_artist": "somunia",
+  "createdAt": "2026-02-12T13:17:14.435423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Horrors of Home (feat. Keith Merrow & Aleksandra Radosavljevic)",
+      "artist": "Kartikeya",
+      "has_synced": true,
+      "path": "select/01_The_Horrors_of_Home_(feat._Keith_Merrow_&_Aleksandra_Radosavljevic)_Kartikeya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Merrow",
+      "artist": "androp",
+      "has_synced": true,
+      "path": "select/02_Merrow_androp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Indoctrination (feat. Keith Merrow)",
+      "artist": "The Eating Cave",
+      "has_synced": false,
+      "path": "select/03_Indoctrination_(feat._Keith_Merrow)_The_Eating_Cave.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "merrow",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/04_merrow_somunia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "merrow",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_merrow_somunia.txt"
+    }
+  ]
+}
